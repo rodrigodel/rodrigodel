@@ -2,15 +2,11 @@
 
 Entrei na UFES em 95 para cursar Estatística aos 17 anos e acabei não me formando. Migrei para Administração em 99. Durante o período cursando Estatística e Administração, trabalhei como desenvolvedor de sites e sistemas em PHP. Em 2005 passei no concurso da Caixa Econômica Federal. Em 2008 passei para Analista no Governo do Estado do Espírito Santo, cargo que exerço até hoje como Gerente de Projetos com Scrum. Em 2006 criei a Mundo Ágil para estudar agilidade.
 
----
-
 ## Formação
 
 2021 - USP - MBA Data Science & Analytics
 <br>
 2011 - FGV - MBA Gerenciamento de Projetos
-
----
 
 ## Tecnologia
 <div style="display: inline_block"><br>
