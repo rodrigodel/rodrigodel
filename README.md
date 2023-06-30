@@ -55,7 +55,7 @@ Entrei na UFES em 95 para cursar Estatística aos 17 anos e acabei não me forma
 ## Links
 
 * Mundo Ágil : https://www.mundoagil.com/
-* Currículo BR : 
+* Currículo BR : http://rodrigodel.github.io/
 * Currículo IT: http://www.mundoagil.com/it
 * Republic of Data : http://www.republicofdata.com/
 
