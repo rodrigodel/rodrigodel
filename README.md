@@ -9,7 +9,7 @@ Entrei na UFES em 95 para cursar Estatística aos 17 anos e acabei não me forma
 2011 - FGV - MBA Gerenciamento de Projetos
 
 ## Tecnologia
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 #### Básico
 
