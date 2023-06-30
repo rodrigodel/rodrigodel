@@ -51,7 +51,6 @@ Entrei na UFES em 95 para cursar Estatística aos 17 anos e acabei não me forma
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rodrigodel)
 
----
 
 ## Links
 
