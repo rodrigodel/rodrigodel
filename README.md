@@ -45,7 +45,6 @@ Entrei na UFES em 95 para cursar Estatística aos 17 anos e acabei não me forma
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigodel&theme=github)](#)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodrigodel&theme=github)](#)
 
----
 
 ## Visitor count
 
